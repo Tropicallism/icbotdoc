@@ -1,3 +1,9 @@
+# ICAS UPDATE LOG:
+Updates will be stated here, instead of the Discord. Major updates will be stated.
+
+1/20/19 | Alpha 0.1 | Fixed memory leaks, added commands
+
+
 # Imperial Creed Automation System
 
 Roblox to Discord integration program! Created by Tropical#4164.
