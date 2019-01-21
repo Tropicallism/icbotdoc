@@ -1,6 +1,8 @@
 # ICAS UPDATE LOG:
 Updates will be stated here, instead of the Discord. Major updates will be stated.
 
+1/21/19 | Beta 0.1 | Bot RELEASED, removed a command (Classified)
+
 1/20/19 | Alpha 0.1 | Fixed memory leaks, added commands
 
 
